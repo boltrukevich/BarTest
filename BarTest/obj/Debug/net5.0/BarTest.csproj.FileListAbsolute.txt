@@ -1,0 +1,16 @@
+C:\Users\amfib\source\repos\BarTest\BarTest\obj\Debug\net5.0\BarTest.csproj.AssemblyReference.cache
+C:\Users\amfib\source\repos\BarTest\BarTest\obj\Debug\net5.0\BarTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amfib\source\repos\BarTest\BarTest\obj\Debug\net5.0\BarTest.AssemblyInfoInputs.cache
+C:\Users\amfib\source\repos\BarTest\BarTest\obj\Debug\net5.0\BarTest.AssemblyInfo.cs
+C:\Users\amfib\source\repos\BarTest\BarTest\obj\Debug\net5.0\BarTest.csproj.CoreCompileInputs.cache
+C:\Users\amfib\source\repos\BarTest\BarTest\bin\Debug\net5.0\BarTest.exe
+C:\Users\amfib\source\repos\BarTest\BarTest\bin\Debug\net5.0\BarTest.deps.json
+C:\Users\amfib\source\repos\BarTest\BarTest\bin\Debug\net5.0\BarTest.runtimeconfig.json
+C:\Users\amfib\source\repos\BarTest\BarTest\bin\Debug\net5.0\BarTest.runtimeconfig.dev.json
+C:\Users\amfib\source\repos\BarTest\BarTest\bin\Debug\net5.0\BarTest.dll
+C:\Users\amfib\source\repos\BarTest\BarTest\bin\Debug\net5.0\ref\BarTest.dll
+C:\Users\amfib\source\repos\BarTest\BarTest\bin\Debug\net5.0\BarTest.pdb
+C:\Users\amfib\source\repos\BarTest\BarTest\obj\Debug\net5.0\BarTest.dll
+C:\Users\amfib\source\repos\BarTest\BarTest\obj\Debug\net5.0\ref\BarTest.dll
+C:\Users\amfib\source\repos\BarTest\BarTest\obj\Debug\net5.0\BarTest.pdb
+C:\Users\amfib\source\repos\BarTest\BarTest\obj\Debug\net5.0\BarTest.genruntimeconfig.cache
